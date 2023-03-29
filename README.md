@@ -1,2 +1,0 @@
-# .github
-Terra de Desenvolvedores
